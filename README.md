@@ -29,9 +29,9 @@ Example: `<back:Space>`
 
 The above will change the background of the area where the sign is to the Space background.
 
-List of available keywords:
+**List of available keywords:**
 
-**Normal backgrounds**
+Normal backgrounds
 - `Hills` Hills and Clouds
 - `HillsOcean` Hills and Ocean
 - `Secret` Secret Course
@@ -44,12 +44,12 @@ List of available keywords:
 - `Desert` Desert
 - `FireCastle` Fire Castle
 - `FireCastleOutside` Fire Castle Outside
-- `Space` The Space background
+- `Space` Space
 - `BowserCastle`/`Bowser` Bowser's Castle
 - `Black` Black
 - `LD` Level Designer Blue Background
 
-**New backgrounds**
+New backgrounds
 - `Dark` Bowser in the Dark World background
 - `Boo` Big Boo's Haunt background
 - `Wet1`/`Wet` Wet Dry World background 1
