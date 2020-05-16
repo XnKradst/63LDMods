@@ -129,7 +129,7 @@ The fireballs only spawn near Mario (or Luigi) directly above him, which means t
 
 - **Wind Gusts**
 
-The `<windarea>` tag activates powerful wind gusts not unlike those seen in the Japanese version of Super Mario Bros. 2 (aka Lost Levels). With this, you can make extremely large gaps that are only possible with the wind.
+The `<airarea>` tag activates powerful wind gusts not unlike those seen in the Japanese version of Super Mario Bros. 2 (aka Lost Levels). With this, you can make extremely large gaps that are only possible with the wind.
 
 The wind direction changes occasionally, and there's no way to disable that... *yet*. Also, using this function will replace one layer of some backgrounds with the floating leaves effect! I might find some way to fix this in the future though.
 
