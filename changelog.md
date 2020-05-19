@@ -1,0 +1,15 @@
+## Version 4
+- Added the changelog
+- Added the `<nofludd>` area tag (requested by Flunkass)
+- Added the `<resetswitch>` area tag (requested by GreenSlayder_x)
+- Added invisible signs (requested by Rai)
+- Anti-Pause can no longer be triggered in Story Mode
+- Replaced giant enemy tags with customizable enemy tags
+- Replaced \<eartharea\> and \<spacearea\> with `<gravity:x>`
+- Added customizable water colors
+- The gap to the left of `<waterarea>`'s water has been removed
+- `<waterarea>`'s water can now be customized, and water signs can now be made to set the water level to a specific value instead of the sign's y position
+- `<firearea>`'s fireballs can now be customized
+- `<airarea>`'s wind can now be customized
+- Removed the Elemental Silver Stars-specific tags (debug, Aether door, etc.)
+- Renamed "Area Attributes" to just "Area Tags". It's not a change in the mod itself, but I like the new name better.
